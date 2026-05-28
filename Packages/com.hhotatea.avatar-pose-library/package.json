@@ -1,8 +1,8 @@
 {
   "name": "com.hhotatea.avatar-pose-library",
-  "displayName": "AvatarPoseLibrary",
-  "version": "1.2.15-audiopatch",
-  "description": "VRChat pose animation system with audio sync support and motion speed pitch sync.",
+  "displayName": "AvatarPoseLibrary Audio Sync Patch",
+  "version": "1.2.15-audio.1",
+  "description": "VRChat pose animation system with realtime audio pitch synchronization support.",
   "unity": "2022.3",
   "author": {
     "name": "3minn",
@@ -17,9 +17,9 @@
     "VRChat",
     "Avatar",
     "Animation",
-    "Pose",
     "Audio",
     "PitchSync",
+    "VPM",
     "ModularAvatar"
   ]
 }

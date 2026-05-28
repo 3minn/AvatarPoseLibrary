@@ -4,10 +4,10 @@
   "url": "https://3minn.github.io/AvatarPoseLibrary/packages.json",
   "author": "3minn",
   "packages": {
-    "com.hhotatea.avatar-pose-library": {
+    "com.3minn.avatar-pose-library-audio-sync": {
       "versions": {
         "1.2.15-audio.1": {
-          "name": "com.hhotatea.avatar-pose-library",
+          "name": "com.3minn.avatar-pose-library-audio-sync",
           "displayName": "AvatarPoseLibrary Audio Sync Patch",
           "version": "1.2.15-audio.1",
           "description": "AvatarPoseLibrary with realtime audio pitch synchronization support.",
@@ -17,7 +17,7 @@
             "url": "https://github.com/3minn"
           },
           "url": "https://github.com/3minn/AvatarPoseLibrary/releases/download/KEEPDance/com.hhotatea.avatar-pose-library.zip",
-          "zipSHA256": "D1D7BB8791881C9E688672E0855BF22129AF76DBCDAE9002D86D9AD4EA822FCF",
+          "zipSHA256": "dd7b52adb33f9484d3c2b707a5a2a28323df25aff7de1a352d9d853b91cc6f79",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.7.0",
             "nadena.dev.ndmf": ">=1.5.0",

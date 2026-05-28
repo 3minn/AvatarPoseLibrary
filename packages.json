@@ -17,7 +17,7 @@
             "url": "https://github.com/3minn"
           },
           "url": "https://github.com/3minn/AvatarPoseLibrary/releases/download/KEEPDance/com.hhotatea.avatar-pose-library.zip",
-          "zipSHA256": "4BC73565F723FC654497417790C6E06CC14F7D48FEAADBD545F3ADFAAFFE40FA",
+          "zipSHA256": "D1D7BB8791881C9E688672E0855BF22129AF76DBCDAE9002D86D9AD4EA822FCF",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.7.0",
             "nadena.dev.ndmf": ">=1.5.0",

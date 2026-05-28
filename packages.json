@@ -16,8 +16,8 @@
             "name": "3minn",
             "url": "https://github.com/3minn"
           },
-          "url": "https://github.com/3minn/AvatarPoseLibrary/releases/download/KEEPDance/com.hhotatea.avatar-pose-library.zip",
-          "zipSHA256": "dd7b52adb33f9484d3c2b707a5a2a28323df25aff7de1a352d9d853b91cc6f79",
+          "url": "https://github.com/3minn/AvatarPoseLibrary/releases/download/KEEPDance/com.3minn.avatar-pose-library-audio-sync.zip",
+          "zipSHA256": "a1b7b5a4d7daf72254912986454b1469facc17ccf87b20ce71db6d6112bdba21",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.7.0",
             "nadena.dev.ndmf": ">=1.5.0",

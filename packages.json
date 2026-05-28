@@ -6,17 +6,17 @@
   "packages": {
     "com.hhotatea.avatar-pose-library": {
       "versions": {
-        "1.2.15-audiopatch": {
+        "1.2.15-audio.1": {
           "name": "com.hhotatea.avatar-pose-library",
           "displayName": "AvatarPoseLibrary Audio Sync Patch",
-          "version": "1.2.15-audiopatch",
+          "version": "1.2.15-audio.1",
           "description": "AvatarPoseLibrary with audio pitch sync support.",
           "unity": "2022.3",
           "author": {
             "name": "3minn"
           },
           "url": "https://github.com/3minn/AvatarPoseLibrary/releases/download/KEEPDance/com.hhotatea.avatar-pose-library.zip",
-          "zipSHA256": "95941388F3DC0F322832BADA9E0AB63CF3A725470D6599FAA35B337D3B516AD2",
+          "zipSHA256": "F20A5954FAE76AE75EFA3546A63E13E81007A6B3100A0601EF661EF4402FA419",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.7.0",
             "nadena.dev.ndmf": ">=1.5.0",
